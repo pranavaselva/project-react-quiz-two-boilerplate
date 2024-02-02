@@ -1,0 +1,91 @@
+[
+    {
+        "quesiton":"Which is the only mammal that can't jump?",
+        "optionA":"Dog",
+        "optionB":"Elephant",
+        "optionC":"Goat",
+        "optionD":"Lion",
+        "answer":"Elephant"
+    },
+
+    {
+        "quesiton":"which is the capital of India?",
+        "optionA":"Delhi",
+        "optionB":"Tamil Nadu",
+        "optionC":"Kolkata",
+        "optionD":"Mumbai",
+        "answer":"Delhi"
+    },
+
+    {
+        "quesiton":"Who was the first Home Minister of India?",
+        "optionA":"Subhas Chandra Bose",
+        "optionB":" Nehru",
+        "optionC":"Sardar Vallabhbhai Patel",
+        "optionD":"Gandhi",
+        "answer":"Sardar Vallabhbhai Patel"
+    },
+
+    {
+        "quesiton":"Who was the only captain to win all format of ICC Trophies?",
+        "optionA":"Ricky Ponting",
+        "optionB":"Kane Williamson",
+        "optionC":"MS Dhoni",
+        "optionD":"Darren Sammy",
+        "answer":"MS Dhoni"
+    },
+
+    {
+        "quesiton":"What is the name of Iron man in avengers?",
+        "optionA":"Thor",
+        "optionB":"Peter Parker",
+        "optionC":"Steve Rogers",
+        "optionD":"Tony Stark",
+        "answer":"Tony Stark"
+    },
+
+    {
+        "quesiton":"What is the chemical symbol for gold?",
+        "optionA":"Au",
+        "optionB":"Ag",
+        "optionC":"Fe",
+        "optionD":"Cu",
+        "answer":"Au"
+    },
+
+    {
+        "quesiton":"Which Indian state is known as the Land of Five Rivers?",
+        "optionA":"Punjab",
+        "optionB":"Rajasthan",
+        "optionC":"Kerala",
+        "optionD":"Gujarat",
+        "answer":"Punjab"
+    },
+
+    {
+        "quesiton":"Which festival is known as the Festival of Lights and is widely celebrated in India?",
+        "optionA":"Holi",
+        "optionB":"Diwali",
+        "optionC":"Navratri",
+        "optionD":"Eid",
+        "answer":"Diwali"
+    },
+
+    {
+        "quesiton":"What is the national animal of India?",
+        "optionA":"Elephant",
+        "optionB":"Tiger",
+        "optionC":"Lion",
+        "optionD":"Leopard",
+        "answer":"Tiger"
+    },
+
+    {
+        "quesiton":"What is the national currency of India?",
+        "optionA":"Rupee",
+        "optionB":"Rupaih",
+        "optionC":"Ringgit",
+        "optionD":"Renminbi",
+        "answer":"Rupee"
+    }
+]
